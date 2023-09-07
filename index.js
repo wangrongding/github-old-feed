@@ -2,17 +2,21 @@
 // @name         Github Old Feed
 // @description  Replacing the shit💩 new version of the feed with the old one
 // @author       荣顶
-// @version      1.2
+// @version      1.3
 // @license      MIT
 // @homeurl      https://github.com/wangrongding/github-old-feed.git
 // @namespace    http://tampermonkey.net/
 // @match        https://github.com/
 // @match        https://github.com/dashboard
-// @run-at       document-idle
 // ==/UserScript==
 
 (function () {
   'use strict';
+
+  const feedContent = document.querySelector('.feed-content')
+  const feedMain = document.querySelector('.feed-main')
+  feedContent.style.maxWidth = "unset"
+  feedMain.style.maxWidth = "1200px"
 
   fetch('https://github.com/dashboard-feed')
     .then(response => response.text())
