@@ -12,7 +12,7 @@ Replace the shit💩 new feed with the old one.
   <tr>
      <td>
         <p align="center">
-             <img width="700" align="center" src="https://assets.fedtop.com/picbed/1694066442147.jpg"/>
+             <img width="800" align="center" src="https://assets.fedtop.com/picbed/1694066442147.jpg"/>
         </p>
      </td>
   </tr>
@@ -20,7 +20,7 @@ Replace the shit💩 new feed with the old one.
   <tr>
      <td>
         <p align="center">
-             <img width="700" align="center" src="https://assets.fedtop.com/picbed/1694066437621.jpg"/>
+             <img width="800" align="center" src="https://assets.fedtop.com/picbed/1694066437621.jpg"/>
         </p>
      </td>
   </tr>
