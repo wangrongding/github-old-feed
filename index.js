@@ -4,10 +4,9 @@
 // @author       荣顶
 // @license      MIT
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @match        https://github.com/
 // @match        https://github.com/dashboard
-// @run-at       document-start
 // ==/UserScript==
 
 (function () {
