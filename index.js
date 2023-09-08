@@ -4,7 +4,7 @@
 // @author       荣顶
 // @version      1.3
 // @license      MIT
-// @homeurl      https://github.com/wangrongding/github-old-feed.git
+// @homepage      https://github.com/wangrongding/github-old-feed.git
 // @namespace    http://tampermonkey.net/
 // @match        https://github.com/
 // @match        https://github.com/dashboard
