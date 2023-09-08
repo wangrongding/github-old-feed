@@ -2,7 +2,7 @@
 
 In the current feed, no matter how many filters you have added, I can't find the information I'm interested in.  
 I only care about the star and commit of people that I follow... and now I can't see that info.  
-The previous feed was much, much better. Please, stop touching things that are not extremely necessary. Don't the Devs that are taking care of these tasks use github?
+Don't the Devs that are taking care of these tasks use github?
 
 Replace the shit💩 new feed with the old one.
 
