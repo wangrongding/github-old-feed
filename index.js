@@ -27,9 +27,12 @@
     .then(text => {
       const parser = new DOMParser();
       const doc = parser.parseFromString(text, 'text/html');
-      const dashboard = document.querySelector("#dashboard");
+      // Preserving the SSO container
+      const dashboard = document.querySelector("#dashboard feed-container");
       const main = doc.querySelector('main');
-      if (dashboard && main) dashboard.innerHTML = main.innerHTML;
+      if (dashboard && main) {
+        dashboard.replaceWith(main);
+      }
     })
     .catch(error => {
       console.error('Fetching the dashboard feed:', error);
