@@ -2,7 +2,7 @@
 // @name         Github Old Feed
 // @description  Replace the shit💩 new feed with the old one.
 // @author       荣顶
-// @version      1.4
+// @version      1.5
 // @license      MIT
 // @homepage      https://github.com/wangrongding/github-old-feed.git
 // @namespace    http://tampermonkey.net/
@@ -30,9 +30,7 @@
       // Preserving the SSO container
       const dashboard = document.querySelector("#dashboard feed-container");
       const main = doc.querySelector('main');
-      if (dashboard && main) {
-        dashboard.replaceWith(main);
-      }
+      if (dashboard && main) dashboard.replaceWith(main);
     })
     .catch(error => {
       console.error('Fetching the dashboard feed:', error);
