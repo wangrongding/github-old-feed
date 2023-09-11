@@ -8,7 +8,7 @@ Replace the shit💩 new feed with the old one.
 
 ## Usage
 
-1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Install [Tampermonkey](https://www.tampermonkey.net/)
 2. Install [github-old-feed](https://greasyfork.org/zh-CN/scripts/474728-github-old-feed)
 3. Refresh the github page! 🍀
 
