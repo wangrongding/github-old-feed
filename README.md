@@ -1,6 +1,6 @@
 # Github Old Feed
 
-In the current feed, no matter how many filters you have added, I can't find the information I'm interested in.  
+In the current feed, no matter how many filters I add, I can't find the information I'm interested in.  
 I only care about the star and commit of people that I follow... and now I can't see that info.  
 Don't the Devs that are taking care of these tasks use github?
 
