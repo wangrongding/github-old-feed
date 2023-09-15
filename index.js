@@ -19,15 +19,13 @@
     // Preserving the SSO container
     const dashboard = document.querySelector('#dashboard feed-container');
     if (!dashboard) return;
-    const loading = dashboard.querySelector(
+    const loading = (dashboard.querySelector(
             'feed-container > div >' +
             'include-fragment[src="/conduit/for_you_feed"] >' +
             'div:first-child'
           ) || document.createTextNode(
             'Loading your activity, one moment please...'
-          );
-    // Node or null, not Element
-    const originLoadingPlace = loading.parentNode;
+          )).cloneNode(true);
     // Stop for_you_feed as fast as possible
     dashboard.replaceWith(loading);
 
@@ -55,8 +53,6 @@
       .catch(error => {
         console.error('Fetching the dashboard feed:', error);
         loading.replaceWith(dashboard);
-        originLoadingPlace && originLoadingPlace.insertBefore(
-            loading, originLoadingPlace.firstChild);
       });
   }
 
