@@ -26,6 +26,8 @@
           ) || document.createTextNode(
             'Loading your activity, one moment please...'
           );
+    // Node or null, not Element
+    const originLoadingPlace = loading.parentNode;
     // Stop for_you_feed as fast as possible
     dashboard.replaceWith(loading);
 
@@ -53,6 +55,8 @@
       .catch(error => {
         console.error('Fetching the dashboard feed:', error);
         loading.replaceWith(dashboard);
+        originLoadingPlace && originLoadingPlace.insertBefore(
+            loading, originLoadingPlace.firstChild);
       });
   }
 
