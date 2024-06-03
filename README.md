@@ -30,3 +30,30 @@ Replace the shit💩 new feed with the old one.
      </td>
   </tr>
 </table>
+
+## Sponsors
+
+<div align="center">
+  <table>
+    <!-- Header -->
+    <tr>
+      <td colspan="3" align="left">
+        <p align="center">
+          <a href="https://302.ai" target="_blank">
+            <img src="./sponsors/302AI.png" alt="Hi" width="400" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <!-- 访问量 -->
+    <tr>
+      <td align="left">302.AI 是一个汇集全球顶级 AI 的自助平台，按需付费，零月费，零门槛使用各种类型 AI。</td>
+      <td align="center" width="120px">
+        <a href="https://302.ai" target="_blank">产品链接</a>
+      </td>
+      <td align="center" width="120px">
+        <a href="https://help.302.ai" target="_blank">网站介绍</a>
+      </td>
+    </tr>
+  </table>
+</div>
