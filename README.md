@@ -15,7 +15,7 @@ Replace the shit💩 new feed with the old one.
       <td colspan="3" align="left">
         <p align="center">
           <a href="https://302.ai" target="_blank">
-            <img src="./sponsors/302AI.png" alt="Hi" width="400" />
+            <img src="./sponsors/302AI.png" alt="Hi" width="300" />
           </a>
         </p>
       </td>
