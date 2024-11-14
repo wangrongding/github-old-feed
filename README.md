@@ -22,7 +22,7 @@ Replace the shit💩 new feed with the old one.
     </tr>
     <!-- 访问量 -->
     <tr>
-      <td align="left">302.AI 是一个汇集全球顶级 AI 的自助平台，按需付费，零月费，零门槛使用各种类型 AI。</td>
+      <td align="left">302.AI是一个按需付费的一站式AI应用平台，为用户解决AI用于实践的最后一公里问题。</td>
       <td align="center" width="120px">
         <a href="https://302.ai" target="_blank">产品链接</a>
       </td>
