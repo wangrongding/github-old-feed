@@ -8,30 +8,13 @@ Replace the shit💩 new feed with the old one.
 
 ## Sponsors
 
-<div align="center">
-  <table>
-    <!-- Header -->
-    <tr>
-      <td colspan="3" align="left">
-        <p align="center">
-          <a href="https://302.ai" target="_blank">
-            <img src="./sponsors/302AI.png" alt="Hi" width="300" />
-          </a>
-        </p>
-      </td>
-    </tr>
-    <!-- 访问量 -->
-    <tr>
-      <td align="left">302.AI是一个按需付费的一站式AI应用平台，为用户解决AI用于实践的最后一公里问题。</td>
-      <td align="center" width="120px">
-        <a href="https://302.ai" target="_blank">产品链接</a>
-      </td>
-      <td align="center" width="120px">
-        <a href="https://help.302.ai" target="_blank">网站介绍</a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://gpt302.saaslink.net/hqRIfk" target="_blank">
+    <img src="./sponsors/302AI.png" alt="Hi" width="200" />
+  </a>
+</p>
+
+> 302.AI 是一个按需付费的一站式 AI 应用平台，为用户解决 AI 用于实践的最后一公里问题。 [产品链接](https://gpt302.saaslink.net/hqRIfk) | [网站介绍](https://gpt302.saaslink.net/hqRIfk)
 
 ## Usage
 
