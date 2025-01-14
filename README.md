@@ -6,16 +6,6 @@ Don't the Devs that are taking care of these tasks use github?
 
 Replace the shit💩 new feed with the old one.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://gpt302.saaslink.net/hqRIfk" target="_blank">
-    <img src="./sponsors/302AI.png" alt="Hi" width="200" />
-  </a>
-</p>
-
-> 302.AI 是一个按需付费的一站式 AI 应用平台，为用户解决 AI 用于实践的最后一公里问题。 [产品链接](https://gpt302.saaslink.net/hqRIfk) | [网站介绍](https://gpt302.saaslink.net/hqRIfk)
-
 ## Usage
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
